@@ -1,1 +1,1 @@
-Provide guidelines for contributing to your project.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
